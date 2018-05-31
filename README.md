@@ -1,4 +1,5 @@
-# I'm Feeling Lucky
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102) ![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+# I'm Feeling Lucky :four_leaf_clover:
 Let your luck decide where you want to roam about in the web today or decide your lucky number for today. It is  single button, which opens new links to an array of strange and odd websites. Its live [here](http://iamshouvikmitra.github.io/feelinglucky).
 
 ### Contributions
