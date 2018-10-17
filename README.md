@@ -12,10 +12,10 @@ I'm also not including websites that have advertising, or any real ulterior moti
 
 ### License
 I'm Feeling Lucky is covered by the MIT License.
-Copyright (C) 2018 ~ [Shouvik Mitra](http://iamshouvikmitra.github.io) ~ work.shouvikmitra@gmail.com
+Copyright (C) 2018 - [Shouvik Mitra](http://iamshouvikmitra.github.io) ~ work.shouvikmitra@gmail.com
 
 The Useless Web is covered by the MIT License.
-Copyright (C) 2015 ~ [Tim Holman](http://tholman.com) ~ timothy.w.holman@gmail.com
+Copyright (C) 2015 - [Tim Holman](http://tholman.com) ~ timothy.w.holman@gmail.com
 
 ### Inspiration
-This website is an inspiration from [The Useless Web](http://theuselessweb.com) and [The Random Internet](http://therandominter.net)
+This Website is an inspiration from [The Useless Web](http://theuselessweb.com) and [The Random Internet](http://therandominter.net)
